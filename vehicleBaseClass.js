@@ -84,7 +84,7 @@ class Vehicle {
         }
     }
 }
-
+//still confused about this whole exercise
 //This exports things you want to use from this "module", more info in readme
 module.exports = {
     Vehicle
